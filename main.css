@@ -40,11 +40,11 @@ body {
 }
 
 .botao-1 {
-    font-weight: bolder !important;
+    font-weight: 400 !important;
     background-color: #ffffff !important;
     border-color: #ffffff !important;
     color: #4285f4 !important;
-    font-family: Roboto;
+    font-family: 'Product Sans' ;
 }
 
 .espacamento-1 {
